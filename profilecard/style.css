@@ -1,0 +1,39 @@
+.photo{
+    width: 25vw;
+    background-color: black;
+}
+body{
+    padding: 5px;
+        margin: auto;
+        width: 640px; 
+        font-family: 'Lexend Deca', sans-serif; 
+        color: #2E475D;   
+      
+      
+}
+
+.red{
+    padding-left: 100px;
+    color: black;
+}
+
+.stage{
+    padding-left: 70px;
+}
+
+.college{
+    padding-left: 85px;
+}
+
+.contact{
+    width: 25vw;
+    background-color: black;
+    color: aliceblue;
+    height: 7vh;
+}
+
+.media{
+    padding-left: 110px;
+}
+
+
