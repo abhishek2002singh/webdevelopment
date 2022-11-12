@@ -1,0 +1,27 @@
+*{
+    background-color: beige;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.header{
+    width: 100vw;
+    height: 15vh;
+    border: 2px solid red;
+    margin: 10px;
+}
+
+.main{
+    width: 100vw;
+    height: 50vh;
+    margin-top: 10px;
+    border: 2px solid red;
+}
+
+.footer{
+    width: 100vw;
+    height: 15vh;
+    margin-top: 10px;
+    border: 2px solid red;
+}
