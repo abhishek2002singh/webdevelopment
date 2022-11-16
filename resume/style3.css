@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(250, 215, 215);
+   margin: 0;
+   padding: 0;
+}
+.container{
+    width: 80%;
+    margin: 50px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px #ccc, -4px -4px 1px palegreen;
+   color: rgb(99, 45, 45);
+   position: relative;
+   bottom: 10px;
+   top: 15px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 4px 4px 4px #ccc;
+    background-color: antiquewhite;
+   /* float: left;*/
+   position: relative;
+    bottom: 10px;
+   /* left: 10px;*/
+   /* display: inline;*/
+ 
